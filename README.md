@@ -7,6 +7,10 @@
 
 A workout tracker built from Markdown notes for Obsidian. It includes a yearly activity heatmap, a monthly calendar with workout statistics, an editable training rotation, and monthly session and minute totals.
 
+## Preview
+
+![Obsidian workout dashboard showing the yearly activity heatmap, training rotation, monthly logs, and monthly calendar](assets/workout-dashboard-preview.png)
+
 ## Files
 
 - `Workout Dashboard.md` - the dashboard, including its queries and styling.
